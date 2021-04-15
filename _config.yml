@@ -20,9 +20,11 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
-  showPicker: flase
+  showPicker: false
   disqus_shortname: a-room-of-ones-own
   navigation:
+    - title: HOME
+      url: "/index"
     - title: AI
       url: "/ai"
     - title: LIFE STYLE
