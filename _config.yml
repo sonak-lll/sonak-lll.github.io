@@ -22,13 +22,13 @@ texture:
   showNav: true
   showPicker: false
   disqus_shortname: a-room-of-ones-own
-  navigation:
-    - title: HOME
-      url: "/index"
-    - title: AI
-      url: "/ai"
-    - title: LIFE STYLE
-      url: "/life"
+  #navigation:
+   # - title: HOME
+   #   url: "/index"
+   # - title: AI
+   #   url: "/ai"
+   # - title: LIFE STYLE
+   #   url: "/life"
 
   # generate social links in footer
   social_links:
