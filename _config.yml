@@ -1,6 +1,6 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: A ROOM OF ONE'S OWN
+author: sonak-lll
+email: myyoon2484@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,18 +15,24 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: A ROOM OF ONE'S OWN
+  tagline: (pre)Developer. A student currently studying AI and Deep Learning  
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
-  showPicker: true
+  showNav: true
+  showPicker: flase
+  disqus_shortname: a-room-of-ones-own
+  navigation:
+    - title: AI
+      url: "/ai"
+    - title: LIFE STYLE
+      url: "/life"
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: 
+    github:  
+    linkedIn: 
     rss: rss
  
 
