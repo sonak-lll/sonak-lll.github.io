@@ -23,10 +23,10 @@ texture:
   showPicker: false
   disqus_shortname: a-room-of-ones-own
   #navigation:
-   # - title: HOME
-   #   url: "/index"
-   # - title: AI
-   #   url: "/ai"
+    - title: HOME
+      url: "/index"
+    - title: AI
+      url: "/ai"
    # - title: LIFE STYLE
    #   url: "/life"
 
