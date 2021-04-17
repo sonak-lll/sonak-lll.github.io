@@ -1,5 +1,5 @@
 ---
 layout: page 
 title: AI
-permalink: /ai/
+permalink: /ai
 ---
